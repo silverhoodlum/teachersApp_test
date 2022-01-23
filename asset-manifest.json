@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/silverhoodlum/teachersApp_test/static/css/main.e64927fc.css",
-    "main.js": "/silverhoodlum/teachersApp_test/static/js/main.48ad97dd.js",
-    "index.html": "/silverhoodlum/teachersApp_test/index.html",
-    "main.e64927fc.css.map": "/silverhoodlum/teachersApp_test/static/css/main.e64927fc.css.map",
-    "main.48ad97dd.js.map": "/silverhoodlum/teachersApp_test/static/js/main.48ad97dd.js.map"
+    "main.css": "/github.io/teachersApp_test/static/css/main.e64927fc.css",
+    "main.js": "/github.io/teachersApp_test/static/js/main.48ad97dd.js",
+    "index.html": "/github.io/teachersApp_test/index.html",
+    "main.e64927fc.css.map": "/github.io/teachersApp_test/static/css/main.e64927fc.css.map",
+    "main.48ad97dd.js.map": "/github.io/teachersApp_test/static/js/main.48ad97dd.js.map"
   },
   "entrypoints": [
     "static/css/main.e64927fc.css",
