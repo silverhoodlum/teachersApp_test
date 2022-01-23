@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/silverhoodlum/teachersApp_test.git/static/css/main.e64927fc.css",
+    "main.js": "/silverhoodlum/teachersApp_test.git/static/js/main.48ad97dd.js",
+    "index.html": "/silverhoodlum/teachersApp_test.git/index.html",
+    "main.e64927fc.css.map": "/silverhoodlum/teachersApp_test.git/static/css/main.e64927fc.css.map",
+    "main.48ad97dd.js.map": "/silverhoodlum/teachersApp_test.git/static/js/main.48ad97dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e64927fc.css",
+    "static/js/main.48ad97dd.js"
+  ]
+}
